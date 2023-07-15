@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @M-Sikander-Shahbaz
+- 👋 Hi, I’m @Engr.Muhammad_Sikander_Shahbaz
 - 👀 I’m interested in projects and technology
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on nothing
-- 📫 contact me via E-mail (muhsikandershahbaz@hotmail.com)
+- 🌱 I’m a computer engineer and AI developer
+- 📫 contact me via E-mail (muhsikandershahbaz@gmail.com)
 
 <!---
 M-Sikander-Shahbaz/M-Sikander-Shahbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
